@@ -24,3 +24,10 @@ div{
   border-radius: 20px;
 }
 
+.form-group{
+  margin-top: 20px;
+}
+
+.form-group:first-child{
+  margin-top: 0;
+}
